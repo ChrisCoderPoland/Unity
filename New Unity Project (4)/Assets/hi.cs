@@ -6,6 +6,10 @@ public class hi : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+
+        okokokoik
+
+
 		
 	}
 	
